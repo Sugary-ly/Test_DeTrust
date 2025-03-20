@@ -1,0 +1,2 @@
+0 : ../../intel-dataset/Verilog-DeTrust\AES-Detrust01
+1 : ../../intel-dataset/Verilog-DeTrust\DES-Detrust01
